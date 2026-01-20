@@ -9,7 +9,7 @@ Landing page desarrollada con HTML, CSS y JavaScript.
 - Feedback de envío con JavaScript  
 
 ## Demo
-https://rami-dev96.github.io/landing-negocio-demo/
+https://ramiro-dev96.github.io/landing-negocio-demo/
 
 ## Tecnologías
 - HTML  
